@@ -1,3 +1,3 @@
-# advent_of_code_2023
+# Advent of Code 2023
 
-https://adventofcode.com/
+This repo contains code for the [Advent of Code Challenge](https://adventofcode.com/)
